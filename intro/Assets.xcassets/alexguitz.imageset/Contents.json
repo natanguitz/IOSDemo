@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "alex_guitz_bigote.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
